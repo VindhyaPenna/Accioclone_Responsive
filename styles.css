@@ -64,12 +64,11 @@ nav li,nav form{
     margin-left: 150px !important;
 }
 .review-box{
+    backgroun-color:light-gray;
     margin-left: 300px;
     margin-right: 150px;
 }
-.review-card{
-    width:300px;
-}
+
 .card4, .card6{
     margin-top: -50px;
 }
