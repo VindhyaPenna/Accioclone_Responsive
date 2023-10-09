@@ -1,0 +1,154 @@
+*{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+nav li,nav form{
+    margin-left: 20px;
+}
+.arrow{
+    position: relative;
+    margin-left: -70px;
+    margin-top: -50px;
+    z-index:-4;
+}
+.hero-left{
+    margin-left: 30px;
+    margin-top: 90px;
+}
+.hero-img{
+    margin-top: 50px;
+}
+.hero-img img{
+    padding-left: 10px;
+}
+.hero-right{
+    position:relative;
+}
+.hero-img-all{
+    background-color:white;
+    position: relative;
+    z-index: 4;
+}
+.hero-left-bottom{
+    width:358px;
+    border-radius: 33px;
+}
+.form-button{
+    height: 60px;
+    width: 400px;
+}
+.Courses{
+    background-color: #ECF8FF;
+}
+
+.border-text{
+    align-self: center;
+    width: 300px;
+    margin-top: -15px;
+}
+.eligibility{
+    font-size: x-small;
+   padding-left: 100px;
+}
+.beg-card-box-blue{
+    background-color: #E0F3FF;
+}
+.sap-card-box-red{
+    color: #965400;
+    background-color: #FFEED8;
+}
+.seprow{
+    margin-left: 150px !important;
+
+}
+.review-box{
+    margin-left: 300px;
+    margin-right: 150px;
+}
+.card4, .card6{
+    margin-top: -50px;
+}
+.cardbtn{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px){
+    .nav-logo-1{
+        width: 110px;
+    }
+    .hero-img img{
+        /* flex-wrap: wrap; */
+        margin-bottom:10px;
+        border-radius: 10px;
+    }
+    .companies-here{
+        margin-left: -150px;
+    }
+    .seprow{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hero-img-all{
+        display:flex;
+        flex-direction: column;
+        border-radius:33px;
+        width:75%;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero-right{
+        width: 250px;
+    }
+    .arrow{
+        display: none;
+    }
+    .hero-left-bottom{
+        width:200px ;
+    }
+    .hero-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .form-button{
+        width: 230px;
+        height: 90px;
+    }
+    .cards{
+        display: flex;
+        flex-direction: column;
+    }
+    .border-text{
+        margin-top:-25px ;
+    }
+    .placement-btn{
+        margin-left: 170px;
+    }
+    .review-box{
+        margin-left:0px;
+        margin-right: 0px;
+    }
+    .card4, .card6{
+        margin-top: 0px;
+    }
+}
