@@ -62,7 +62,6 @@ nav li,nav form{
 }
 .seprow{
     margin-left: 150px !important;
-
 }
 .review-box{
     margin-left: 300px;
@@ -145,7 +144,7 @@ nav li,nav form{
         margin-left: 170px;
     }
     .review-box{
-        margin-left:0px;
+        margin-left:30px;
         margin-right: 0px;
     }
     .card4, .card6{
