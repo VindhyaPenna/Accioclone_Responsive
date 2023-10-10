@@ -92,7 +92,7 @@ nav li,nav form{
 
 
 
-@media screen and (max-width:450px){
+@media screen and (min-width:450px){
     .nav-logo-1{
         width: 110px;
     }
