@@ -182,7 +182,7 @@ nav li,nav form{
         justify-content: center;
     }
     .hero-right{
-        width: 250px;
+        width: 460px;
     }
     .arrow{
         display: none;
@@ -195,7 +195,7 @@ nav li,nav form{
         flex-direction: column;
     }
     .form-button{
-        width: 230px;
+        width: 400px;
         height: 90px;
     }
     .cards{
