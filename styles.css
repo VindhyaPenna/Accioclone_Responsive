@@ -84,6 +84,7 @@ nav li,nav form{
     flex-direction: row !important;
 }
 .review-box{
+    background-color: red;
     width: 61%;
     justify-self: center;
 }
