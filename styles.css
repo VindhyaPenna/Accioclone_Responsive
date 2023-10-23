@@ -84,7 +84,6 @@ nav li,nav form{
     flex-direction: row !important;
 }
 .review-box{
-    background-color: red;
     width: 61%;
     justify-self: center;
 }
@@ -144,7 +143,6 @@ nav li,nav form{
     .companies-here{
         width:75%;
         margin: auto;
-        background-color: green;
         display: flex;
         flex-direction: column;
     }
@@ -157,7 +155,6 @@ nav li,nav form{
         display: none !important;
     }
     .seprow{
-        background-color: red !important;
         flex-wrap: wrap !important;
     }
     /* .review-box{
